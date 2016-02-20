@@ -1,0 +1,56 @@
+body {
+	font-size: 100px;
+	font-family: 'Amatic SC', cursive;
+}
+#container {
+	float: right;
+	margin-right: 3em;
+}	
+h1 {
+	font-size: 100px;
+	font-family: 'Amatic SC', cursive;
+	margin-bottom: .1em;
+	margin-right: 1em;
+	margin-top: 0px;
+}
+h2 {
+	font-size: 50px;
+	font-family: 'Amatic SC', cursive;
+	margin-top: 0.1em;
+	margin-right: 2em;
+}
+h1 {
+	float: right;
+}
+h2 {
+	text-align: right;
+}
+.main {
+	text-align: right;
+}
+.figures {
+	margin-top: 2em;
+	margin-right: 0px;
+	float: right;
+	width: 100%;
+	text-align: center;
+	font-weight: bold;
+}
+.fig1 {
+	float: right;
+}
+.fig2 {
+	float: right;
+}
+.fig3 {
+	float: right;
+}
+#box {
+	width: 16%;
+	margin-left: 3em;
+}
+.book-source, .donut-source, .color-source {
+	font-size: 30px;
+	color: #C0C0C0;
+	margin-bottom: 2em;
+}
